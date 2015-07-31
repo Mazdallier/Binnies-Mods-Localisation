@@ -42,7 +42,7 @@ binniecore.rootFlowers.epitome.4=Main Verte
 binniecore.rootFlowers.epitome.5=Maître Jardinier
 binniecore.rootFlowers.epitome.6=Botaniste Hors Pair
 
-binniecore.rootBees.chromosome.species=Espève
+binniecore.rootBees.chromosome.species=Espèces
 binniecore.rootBees.chromosome.speed=Production
 binniecore.rootBees.chromosome.lifespan=Durée de Vie
 binniecore.rootBees.chromosome.fertility=Fertilité
@@ -156,7 +156,6 @@ binniecore.rootFlowers.chromosome.ph_tolerance.short=Tol. pH
 binniecore.rootFlowers.chromosome.sappiness.short=Nectar
 binniecore.rootFlowers.chromosome.stem.short=Coul. Tige
 
-< TODO: Is this used in context with the word "fertility"? >
 binniecore.allele.fertility.low=Basse
 binniecore.allele.fertility.normal=Moyenne
 binniecore.allele.fertility.high=Haute
@@ -180,7 +179,7 @@ binniecore.allele.growth.tropical=Tropical
 binniecore.allele.growth.lightlevel=Niveau de Lumière
 
 
-binniecore.beemodifier.territory=Territoore
+binniecore.beemodifier.territory=Territoire
 binniecore.beemodifier.mutation=Mutation
 binniecore.beemodifier.lifespan=Durée de Vie
 binniecore.beemodifier.production=Production
@@ -199,11 +198,11 @@ binniecore.item.container.glass=Bouteille
 binniecore.item.container.cylinder=Cylindre
 
 binniecore.machine.storage.compartment=Compartiment
-binniecore.machine.storage.compartmentIron=Compartiment en Fer
-binniecore.machine.storage.compartmentDiamond=Compartiment en Diamand
-binniecore.machine.storage.compartmentCopper=Compartiment en Cuivre
-binniecore.machine.storage.compartmentBronze=Compartiment en Bronze
-binniecore.machine.storage.compartmentGold=Compartiment en Or
+binniecore.machine.storage.compartmentIron=Compartiment en fer
+binniecore.machine.storage.compartmentDiamond=Compartiment en diamant
+binniecore.machine.storage.compartmentCopper=Compartiment en cuivre
+binniecore.machine.storage.compartmentBronze=Compartiment en bronze
+binniecore.machine.storage.compartmentGold=Compartiment en or
 
 < %1$s is the name of the pattern >
 binniecore.gui.designer.pattern=Modèle %1$s
